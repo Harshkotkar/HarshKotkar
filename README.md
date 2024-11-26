@@ -1,6 +1,25 @@
 <h2 align="center">Hi there! 👋 I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</h2>
 
 ###
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">Hi there! 👋 I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌟 Who Am I?<br>A data enthusiast passionate about uncovering stories hidden in raw data.<br><br>💻 What Drives Me?<br>Solving real-world problems, blending creativity with tech, and exploring the mysteries of space and the ocean. 🌌🌊</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
