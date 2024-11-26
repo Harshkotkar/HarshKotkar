@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</p>
+<p align="left"> I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</p>
 
 ###
 
