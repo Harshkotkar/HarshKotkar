@@ -38,7 +38,7 @@
 </div>
 
 ###
-<a href="https://imgflip.com/i/9bq4ai"><img src="https://i.imgflip.com/9bq4ai.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+https://imgflip.com/i/9bq4ai
 
 <img src="https://raw.githubusercontent.com/HarshKotkar/HarshKotkar/output/snake.svg" alt="Snake animation" />
 
