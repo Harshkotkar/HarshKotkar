@@ -15,6 +15,7 @@
 <p align="left">🌟 Who Am I?<br>A data enthusiast passionate about uncovering stories hidden in raw data.<br><br>💻 What Drives Me?<br>Solving real-world problems, blending creativity with tech, and exploring the mysteries of space and the ocean. 🌌🌊</p>
 
 ###
+<p align="left">📚 Current Learning Journey<br>👨‍💻 Skills I'm Developing:<br>📈 Machine Learning: Starting with Linear Regression, moving toward predictive modeling.<br>📊 Data Visualization: Mastering tools like Tableau and Excel to tell compelling data stories.<br>🧮 Data Analysis: Leveraging SQL to identify key trends and insights in student mental health and well-being.<br>💡 Ask me about:<br>       Data science concepts 🧠<br>       Analyzing datasets 📊<br>       Cool visualizations 🎨</p>
 
 <h2 align="left">I code with</h2>
 
