@@ -1,24 +1,53 @@
-<img align="center" width="800px" src="" alt=""/>
+<h2 align="center">Hi there! 👋 I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</h2>
 
+###
 
-![](https://img.shields.io/badge/Kaggle-Grandmaster-FAE01C) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) ![](https://img.shields.io/github/stars/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> [![](https://visitcount.itsvg.in/api?id=shtrausslearning&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshKotkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshKotkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
+###
 
-Hello, my name is Harsh <br>
-○ Data Analyst in financial sector<br>
-○ Peviously worked on meshless and synthetic turbulence topics & biomimicry in aerodynamics <br>
-○ In my spare time I paint portraits <br>
-○ I like to work on Kaggle, my profile is linked in above <br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
-<b>My Interests</b>: <br>
+###
 
-**<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</div>
 
-**Background**
+###
 
-○ Aerospace Engineering from Tohoku University (graduate) <br>
-○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
-○ Specialise in Computation Fluid Dynamics & Aeroacoustics
+<br clear="both">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs&theme=nord)](https://github.com/shtrausslearning/mllibs) 
+<img src="https://raw.githubusercontent.com/HarshKotkar/HarshKotkar/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HarshKotkar/count.svg?"  />
+</div>
+
+###
