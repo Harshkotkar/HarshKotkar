@@ -39,12 +39,6 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/HarshKotkar/HarshKotkar/output/snake.svg" alt="Snake animation" />
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/HarshKotkar/count.svg?"  />
 </div>
