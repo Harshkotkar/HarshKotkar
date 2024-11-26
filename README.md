@@ -1,29 +1,24 @@
- 
-Hi there! 👋 I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊
+<img align="center" width="800px" src="https://i.imgur.com/0fhr4Ir.png" alt="shtrausslearning"/>
 
-📚 Current Learning Journey
-👨‍💻 Skills I'm Developing:
 
-📈 Machine Learning: Starting with Linear Regression, moving toward predictive modeling.
-📊 Data Visualization: Mastering tools like Tableau, PowerBI and Excel to tell data-driven stories.
-🧮 Data Analysis: Using SQL to uncover patterns and trends in student mental health data.
-💡 Ask me about:
+![](https://img.shields.io/badge/Kaggle-Grandmaster-FAE01C) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) ![](https://img.shields.io/github/stars/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> [![](https://visitcount.itsvg.in/api?id=shtrausslearning&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-Data science concepts 🧠
-Analyzing datasets 📊
-Cool visualizations 🎨
-🎯 My Goals
-Build Expertise in Data Science:
-From data cleaning to predictive modeling, I aim to master the full spectrum.
+<a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
-Work on Real-World Projects:
-Applying concepts to practical problems excites me! Currently focusing on:
-Health data 🧠
-Security 🔐
-Collaborate and Grow Together:
-Open to teaming up on data projects and knowledge sharing!
+Hello, my name is Andrey :3 <br>
+○ Data Analyst in financial sector<br>
+○ Peviously worked on meshless and synthetic turbulence topics & biomimicry in aerodynamics <br>
+○ In my spare time I paint portraits <br>
+○ I like to work on Kaggle, my profile is linked in above <br>
 
-✨ Fun Tidbits
-Hobbies: Coding projects, space science, Bio🧬.
-Mantra: "Stay curious, stay coding."
+<b>My Interests</b>: <br>
 
+**<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
+
+**Background**
+
+○ Aerospace Engineering from Tohoku University (graduate) <br>
+○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
+○ Specialise in Computation Fluid Dynamics & Aeroacoustics
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs&theme=nord)](https://github.com/shtrausslearning/mllibs) 
