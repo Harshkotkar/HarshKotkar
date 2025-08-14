@@ -1,54 +1,44 @@
+<h1 align="center">Hey 👋, I'm Harsh &#128515</h1>
 
-###
-<h1 align="left">Hey👋 What's up?</h1>
+<!-- Introduction -->
+<!-- Animation Typing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7B4&width=435&lines=I+am+a+Data+Science+Student )](https://git.io/typing-svg) -->
 
-###
-
-<p align="left"> I'm Harsh, a curious Data Science Student exploring the world of data, uncovering insights, and building impactful projects. If you're passionate about data, tech, or just curious about what I do, you're in the right place! 😊</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌟 Who Am I?<br>A data enthusiast passionate about uncovering stories hidden in raw data.<br><br>💻 What Drives Me?<br>Solving real-world problems, blending creativity with tech, and exploring the mysteries of space and the ocean. 🌌🌊</p>
-
-###
-<h2 align="left">I code with</h2>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
-</div>
-
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshKotkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshKotkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Image Gifs --> 
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right"/>
 
 
 
+- 🧑‍💻 Data Science enthusiast  
+- ⚡ Fun fact: I am a quick learner 😃  
+- 🌱 Always exploring new technologies  
+- 🎯 Interested in Machine Learning & AI  
+
+---
+
+
+<!-- Skills Icon --> 
+<!-- ## 🛠️ My Skills
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,Tensorflow,git,flask)](https://skillicons.dev) -->
+
+
+<!-- Social icons -->
+## ❤️ Let's get connected:
+
+<p >
+ 
+  <a href="https://www.linkedin.com/in/adamoidowu/" target="www.linkedin.com/in/harshwardhankotkar"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+</p>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stat
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdowuAdamo&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+## 😄 Random dev joke for you ~ refresh for random jokes :)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes"></a>
 
 
 
